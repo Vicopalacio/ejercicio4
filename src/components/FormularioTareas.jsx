@@ -27,7 +27,7 @@ const FormularioTareas = () => {
           </Button>
         </Form.Group>
       </Form>
-      <ListaTareas></ListaTareas>
+      <ListaTareas propsArregloTareas={arregloTareas}></ListaTareas>
     </>
   );
 };
