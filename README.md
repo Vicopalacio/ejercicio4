@@ -4,7 +4,7 @@ Lista tareas realizadas con React, practicamos el uso de props, state, component
 
 ## Demo del proyecto
 
-Proba la demo de la lista de tareas del siguiente link: [Demo lista tareas](https://github.com/Vicopalacio/ejercicio4.git)
+Proba la demo de la lista de tareas del siguiente link: [Demo lista tareas](https://comforting-cheesecake-edad4e.netlify.app/)
 
 ## Pasos para probar el proyecto
 
